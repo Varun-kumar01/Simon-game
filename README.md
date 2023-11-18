@@ -1,2 +1,2 @@
-# Simon-game
-It is a dynamic website, basically Simon game.
+It is a dynamic website, basically a Simon game.
+It is built using HTML, CSS, and javascript.
